@@ -9,7 +9,7 @@
 
 This is a simple yet powerful AI Image Generator that allows users to input a text prompt and receive a high-quality AI-generated image in return.  
 It utilizes the **Stable Diffusion model** via the **Stability AI API**.
-Live Demo- 
+Live Demo- https://supriya01-cpu.github.io/AI-Image-generator-webpage/
 ---
 ## 🔥 Features
 
