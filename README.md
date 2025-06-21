@@ -23,4 +23,16 @@ Live Demo- https://supriya01-cpu.github.io/AI-Image-generator-webpage/
 
 ## 🧰 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript
+- - **API**: [Stability AI – Stable Diffusion](https://platform.stability.ai/)
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+
+<br>
+🙋‍♀️ Author
+Made with ❤️ by Supriya Sinha
+
